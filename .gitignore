@@ -1,0 +1,10 @@
+# Source materials (not part of the site)
+*.pdf
+photo_*.jpg
+
+# System
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
